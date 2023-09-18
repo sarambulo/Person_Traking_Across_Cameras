@@ -1,4 +1,4 @@
-# Person_Traking_Across_Cameras
+# Person_Traking_Across_Cameras (WIP)
 Identify and follow customers on stores to optimize the location of products and services
 
 Literature review:
