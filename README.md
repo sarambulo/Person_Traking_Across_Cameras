@@ -3,7 +3,7 @@ This project deals with the problem of identifying and tracking people on multip
 
 The ideal solution should achieve results similar to the ones presented in the video below from NVIDIA:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kBocswfkRlg" title="Pedestrian tracking by NvDCF tracker with full and partial occlusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/kBocswfkRlg
 
 Literature review:
 - [AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time](https://arxiv.org/pdf/2211.03375.pdf)
