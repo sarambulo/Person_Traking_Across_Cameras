@@ -1,5 +1,9 @@
 # Person_Traking_Across_Cameras (WIP)
-Identify and follow customers on stores to optimize the location of products and services
+This project deals with the problem of identifying and tracking people on multiple cameras. Developing a solution for this would prove useful for analyzing how customers behave at stores or agencies. Insights from this analysis could help to optimize the location of products and services to increase the speed at which customers are served and their average ticket size (if bundling certain products leads to higher spending).
+
+The ideal solution should achieve results similar to the ones presented in the video below from NVIDIA:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kBocswfkRlg" title="Pedestrian tracking by NvDCF tracker with full and partial occlusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Literature review:
 - [AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time](https://arxiv.org/pdf/2211.03375.pdf)
