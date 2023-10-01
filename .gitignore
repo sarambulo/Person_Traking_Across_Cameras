@@ -1,5 +1,9 @@
-# AlphaPose
+# Built packages
 AlphaPose/
+
+# Data
+inputs/
+outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
